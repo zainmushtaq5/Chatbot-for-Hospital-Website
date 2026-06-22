@@ -1,0 +1,48 @@
+Al-Shifa General Hospital — Frequently Asked Questions
+
+This document is used to train the hospital's AI chatbot. It covers common patient questions.
+
+Q1: How do I book an appointment?
+A: Call +92-21-3456-7892, visit the reception desk, or use our website/app. Walk-ins are also welcome during OPD hours.
+
+Q2: What documents should I bring?
+A: Bring your CNIC, previous prescriptions, lab reports, and insurance card (if applicable).
+
+Q3: What are the laboratory timings?
+A: Monday–Friday: 8 AM–10 PM. Saturday: 8 AM–6 PM. Sunday: 10 AM–4 PM. Emergency lab is available 24/7.
+
+Q4: How long does it take to get lab results?
+A: Routine tests: 4–6 hours. Blood complete count (CBC): 1–2 hours. Culture tests: 24–72 hours. Results are shared via SMS or our patient portal.
+
+Q5: Does the hospital accept insurance?
+A: Yes. We accept Jubilee, EFU, Allianz EFU, State Life, Adamjee, and government SEHAT cards. Please bring your insurance card on the day of your visit.
+
+Q6: Is the emergency department open 24 hours?
+A: Yes. Our Emergency & Trauma department is open 24 hours a day, 7 days a week, including public holidays.
+
+Q7: What payment methods are accepted?
+A: We accept cash, bank transfer, JazzCash, EasyPaisa, and all major debit/credit cards.
+
+Q8: Can I get an online/telemedicine consultation?
+A: Yes. Online consultations are available for selected doctors. Book through our website or call reception. Fee is the same as an in-person visit.
+
+Q9: Is parking available?
+A: Yes, free parking is available for patients and visitors in the hospital basement and front area.
+
+Q10: How do I access my medical records?
+A: Request at the medical records department (ground floor, Room 12) with your CNIC. Records are available within 2 working days.
+
+Q11: What should I do in a medical emergency?
+A: Call our emergency line: +92-21-3456-7999. Our ambulance service is also available. Come directly to the Emergency entrance on the ground floor.
+
+Q12: Are there facilities for admitted patients' families?
+A: Yes. Visitors are allowed from 5 PM–8 PM. One attendant is permitted to stay overnight with admitted patients. A canteen and prayer area are available on-site.
+
+Q13: How do I get a medical certificate?
+A: Visit the OPD after your consultation and request a certificate from the doctor. It will be issued on the same day.
+
+Q14: What is the process for surgery?
+A: Your doctor will refer you to a surgeon. Pre-surgery tests, anesthesia consultation, and a consent form are required. OT slots are booked through the surgery coordinator.
+
+Q15: Does the hospital offer home sample collection?
+A: Yes, home sample collection is available within Karachi. Call +92-21-3456-7893 (Lab department) to schedule. Extra charges apply.
