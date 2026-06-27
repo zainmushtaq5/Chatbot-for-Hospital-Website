@@ -9,3 +9,5 @@ restartPolicyMaxRetries = 3
 
 [variables]
 NIXPACKS_NODE_VERSION = "20"
+NIXPACKS_NPM_VERSION = "10"
+CI = "false"
