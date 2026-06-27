@@ -1,5 +1,8 @@
+[phases.setup]
+nixPkgs = ["nodejs_20", "python3", "gcc", "gnumake"]
+
 [phases.install]
-cmds = ["npm install --ignore-scripts"]
+cmds = ["npm install"]
 
 [phases.build]
 cmds = ["npm run build"]
