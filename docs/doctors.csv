@@ -1,0 +1,16 @@
+id,name,department,qualification,days,timing_start,timing_end,fee_pkr,room,phone_ext
+1,Dr. Ahmed Khan,Cardiology,"MBBS, FCPS (Cardiology)",Mon-Fri,09:00,14:00,2000,OPD-101,201
+2,Dr. Sara Naqvi,Cardiology,"MBBS, MRCP (UK)","Mon, Wed, Fri",15:00,19:00,2500,OPD-102,202
+3,Dr. Imran Malik,Dermatology,"MBBS, FCPS (Dermatology)",Tue-Sat,10:00,15:00,1500,OPD-103,203
+4,Dr. Hina Siddiqui,Gynecology,"MBBS, FCPS (Gynae)",Mon-Thu,09:00,13:00,2000,OPD-201,204
+5,Dr. Zubair Ahmed,Orthopedics,"MBBS, FCPS (Ortho)",Mon-Fri,16:00,20:00,2000,OPD-202,205
+6,Dr. Rabia Farooq,Pediatrics,"MBBS, DCH",Mon-Sat,10:00,14:00,1500,OPD-301,206
+7,Dr. Kashif Raza,Neurology,"MBBS, FCPS (Neuro)","Tue, Thu, Sat",14:00,18:00,2500,OPD-302,207
+8,Dr. Ayesha Tariq,ENT,"MBBS, FCPS (ENT)",Mon-Fri,11:00,15:00,1500,OPD-401,208
+9,Dr. Usman Ghani,Gastroenterology,"MBBS, MRCP, FRCP","Mon, Wed, Fri",09:00,12:00,3000,OPD-402,209
+10,Dr. Nadia Baig,Endocrinology,"MBBS, FCPS (Medicine)",Tue-Sat,15:00,19:00,2000,OPD-403,210
+11,Dr. Farhan Qureshi,Radiology,"MBBS, FCPS (Radiology)",Mon-Fri,09:00,17:00,1000,RAD-101,211
+12,Dr. Sana Javed,General Surgery,"MBBS, FRCS",Mon-Thu,08:00,12:00,2500,OPD-501,212
+13,Dr. Adeel Hussain,Urology,"MBBS, FCPS (Urology)","Tue, Thu",16:00,19:00,2500,OPD-502,213
+14,Dr. Maryam Shafiq,Psychiatry,"MBBS, FCPS (Psych)","Mon, Wed, Fri",14:00,17:00,2000,OPD-601,214
+15,Dr. Bilal Ansari,Pulmonology,"MBBS, FCPS (Medicine)",Mon-Fri,10:00,14:00,2000,OPD-602,215

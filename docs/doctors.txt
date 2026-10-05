@@ -1,0 +1,26 @@
+Al-Shifa General Hospital — Doctor Directory
+
+Complete list of doctors, departments, timings, and consultation fees.
+
+Doctor Name	Department	Qualification	Days	Timing	Fee
+Dr. Ahmed Khan	Cardiology	MBBS, FCPS (Cardiology)	Mon–Fri	9:00 AM – 2:00 PM	2,000 PKR
+Dr. Sara Naqvi	Cardiology	MBBS, MRCP (UK)	Mon, Wed, Fri	3:00 PM – 7:00 PM	2,500 PKR
+Dr. Imran Malik	Dermatology	MBBS, FCPS (Dermatology)	Tue–Sat	10:00 AM – 3:00 PM	1,500 PKR
+Dr. Hina Siddiqui	Gynecology	MBBS, FCPS (Gynae)	Mon–Thu	9:00 AM – 1:00 PM	2,000 PKR
+Dr. Zubair Ahmed	Orthopedics	MBBS, FCPS (Ortho)	Mon–Fri	4:00 PM – 8:00 PM	2,000 PKR
+Dr. Rabia Farooq	Pediatrics	MBBS, DCH	Mon–Sat	10:00 AM – 2:00 PM	1,500 PKR
+Dr. Kashif Raza	Neurology	MBBS, FCPS (Neuro)	Tue, Thu, Sat	2:00 PM – 6:00 PM	2,500 PKR
+Dr. Ayesha Tariq	ENT	MBBS, FCPS (ENT)	Mon–Fri	11:00 AM – 3:00 PM	1,500 PKR
+Dr. Usman Ghani	Gastroenterology	MBBS, MRCP, FRCP	Mon, Wed, Fri	9:00 AM – 12:00 PM	3,000 PKR
+Dr. Nadia Baig	Endocrinology	MBBS, FCPS (Medicine)	Tue–Sat	3:00 PM – 7:00 PM	2,000 PKR
+Dr. Farhan Qureshi	Radiology	MBBS, FCPS (Radiology)	Mon–Fri	9:00 AM – 5:00 PM	1,000 PKR
+Dr. Sana Javed	General Surgery	MBBS, FRCS	Mon–Thu	8:00 AM – 12:00 PM	2,500 PKR
+Dr. Adeel Hussain	Urology	MBBS, FCPS (Urology)	Tue, Thu	4:00 PM – 7:00 PM	2,500 PKR
+Dr. Maryam Shafiq	Psychiatry	MBBS, FCPS (Psych)	Mon, Wed, Fri	2:00 PM – 5:00 PM	2,000 PKR
+Dr. Bilal Ansari	Pulmonology	MBBS, FCPS (Medicine)	Mon–Fri	10:00 AM – 2:00 PM	2,000 PKR
+
+Notes
+All fees are consultation fees only. Lab and procedure charges are separate.
+Timings may change on public holidays. Please confirm by phone.
+To book an appointment, call +92-21-3456-7892 or use the hospital app.
+Emergency cases are handled 24/7 regardless of doctor availability.

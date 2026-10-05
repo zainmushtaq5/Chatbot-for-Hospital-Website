@@ -1,0 +1,54 @@
+Al-Shifa General Hospital
+
+Official Hospital Information Document
+
+Basic Information
+Field	Details
+Hospital Name	Al-Shifa General Hospital
+Type	Multi-Specialty Private Hospital
+City	Karachi, Pakistan
+Address	Plot 45, Block 7, Gulshan-e-Iqbal, Karachi
+Phone	+92-21-3456-7890 | +92-21-3456-7891
+Emergency	+92-21-3456-7999 (24/7)
+Email	info@alshifahospital.pk
+Website	www.alshifahospital.pk
+Registration No.	KHI-MED-2005-0432
+
+Working Hours
+Day	OPD Hours	Emergency	Lab / Radiology
+Monday – Friday	9:00 AM – 9:00 PM	24 Hours	8:00 AM – 10:00 PM
+Saturday	9:00 AM – 6:00 PM	24 Hours	8:00 AM – 6:00 PM
+Sunday	10:00 AM – 4:00 PM	24 Hours	10:00 AM – 4:00 PM
+Public Holidays	Emergency only	24 Hours	Emergency only
+
+Available Services
+Outpatient Department (OPD)
+Inpatient / Admission Ward
+Emergency & Trauma Care (24/7)
+Intensive Care Unit (ICU)
+Operation Theatre (OT)
+Diagnostic Laboratory
+Radiology & Imaging (X-Ray, Ultrasound, MRI, CT Scan)
+Pharmacy (open 24 hours)
+Ambulance Service
+Telemedicine / Online Consultation
+
+Insurance Accepted
+Jubilee Life Insurance
+EFU Health Insurance
+Allianz EFU Health Insurance
+State Life Insurance
+Adamjee Insurance
+Pakistan government employee health scheme (SEHAT)
+Private corporate agreements available — contact admin for details
+
+Contact Departments
+Department	Extension	Direct Number
+Reception / Front Desk	100	+92-21-3456-7890
+Emergency	911	+92-21-3456-7999
+Appointments / OPD	102	+92-21-3456-7892
+Laboratory	103	+92-21-3456-7893
+Radiology	104	+92-21-3456-7894
+Accounts / Billing	105	+92-21-3456-7895
+Pharmacy	106	+92-21-3456-7896
+Ambulance	107	+92-21-3456-7900
