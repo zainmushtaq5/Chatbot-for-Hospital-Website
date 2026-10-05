@@ -70,7 +70,7 @@ def build_knowledge_base():
             metadatas.append({"source": doc["source"], "chunk_id": i})
 
     print("Building embeddings...")
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=config.GEMINI_API_KEY)
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-2", google_api_key=config.GEMINI_API_KEY)
     
     # Create the vector store
     vector_store = Chroma.from_texts(
@@ -83,7 +83,7 @@ def build_knowledge_base():
     print("Done.")
 
 def search_knowledge_base(query, n_results=4):
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=config.GEMINI_API_KEY)
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/gemini-embedding-2", google_api_key=config.GEMINI_API_KEY)
     vector_store = Chroma(
         collection_name="hospital_kb",
         embedding_function=embeddings,
